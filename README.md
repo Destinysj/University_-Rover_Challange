@@ -1,6 +1,6 @@
 # Prototype Rover Design
 
-Team ARES a team of 25 members were working together to build a prototype of Mars rover for URC 2019.
+Team ARES a team of 25 members were working together to build a prototype of rover for URC .
 - Accessed live location using GPS module. Integrated hardware and interfacing sensors with Arduino. Master-Slave communication between various modules and Raspberry Pi.
 - Fetching data from MPU9250- Accelerometer, Gyroscope, Magnetometer values to get real world data Yaw, Pitch, Roll angles.....
 - Using Lora 1276 v2.0 RF Module to transmits onboard sensor data to base station.
