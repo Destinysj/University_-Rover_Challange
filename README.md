@@ -6,3 +6,10 @@ Using Lora RF Module to transmits onboard data to base station.
 Fetching data from MPU9250- Accelerometer, Gyroscope, Magnetometer values to get real world data Yaw, Pitch, Roll angles.....
 For Wireless long range communication LoRa v1.4 using as it has long range low power and less bandwidth (cannot be used for trasmitting videos) data associated with (modules-DHT-22, sensors-MPUs communication-SPI prtocol) with 32 bit header can be trasmitted over the air
 # Testing Lora Dragino Shield
+- Open source Liabrary 
+- Lora Shild based on SX127/SX128 targets professional wireless sensor network application 
+- Sensitive -148dBm
+- Highly sensitive combined with Integrated +20 dBm power amplifier.
+- IEE802.15.4g
+- Exceptional phase, noise immunity, selectivity, linearity.
+- # Bullet Proof - IIP3
